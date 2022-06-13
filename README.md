@@ -1,2 +1,3 @@
 # Slider-with-JS
-![sliderJS](https://user-images.githubusercontent.com/101713038/173256300-5507b20c-7c24-4dc2-a57e-86acf451e09d.jpeg)
+
+![sliderJS v2](https://user-images.githubusercontent.com/101713038/173344752-09b9cb59-c10f-4404-9c9f-98e7a7b7d740.jpeg)
