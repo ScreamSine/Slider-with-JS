@@ -7,21 +7,19 @@ body {
     display: flex;
     justify-content: center;
     height: 100vh;
-    background: #111;
-    align-self: center;
+    background: rgba(1, 0, 0, 0.95);
 }
 
 .container {
     width: 90%;
     padding: auto 20px;
     display: flex;
-    justify-content: center;
     align-items: center;
 }
 
 .slider {
     cursor: pointer;
-    height: 90vh;
+    height: 70vh;
     border-radius: 20px;
     margin: 10px;
     color: white;
@@ -33,4 +31,6 @@ body {
 
 .active {
     flex: 10;
+    transform: scale(1.1);
+    box-shadow: 1px 1px 20px black;
 }
